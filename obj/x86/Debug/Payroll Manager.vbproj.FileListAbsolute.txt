@@ -1,0 +1,182 @@
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\bin\Debug\Payroll Manager.exe
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\bin\Debug\Payroll Manager.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\bin\Debug\Payroll Manager.xml
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.Login_form.resources
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.Resources.resources
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.vbproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.exe
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.xml
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.change_password.resources
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.main_form.resources
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.about_payroll.resources
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.Attendance.resources
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.Employee_registration.resources
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.advance_form.resources
+C:\Users\admin\documents\visual studio 2010\Projects\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.payroll_splash.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.exe
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.xml
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.pdb
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\bin\Debug\Payroll Manager.exe
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\bin\Debug\Payroll Manager.pdb
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\bin\Debug\Payroll Manager.xml
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.Resources.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.vbproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.vbprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\bin\Debug\Payroll Manager.exe.config
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\bin\Debug\Payroll Manager.exe.config
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.exe
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.xml
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.pdb
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\bin\Debug\Payroll Manager.exe
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\bin\Debug\Payroll Manager.pdb
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\bin\Debug\Payroll Manager.xml
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.vbprojResolveAssemblyReference.cache
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.Resources.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.vbproj.GenerateResource.Cache
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAboutBox1.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAdvanceEntryRecord.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAdvance.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAttendance.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmChangePassword.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmDeductionEntryRecord.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeeAttendanceRecord.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeePayment.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeePaymentRecord.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeesRecord.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployee_registration.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmPasswordRecovery.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmlogin.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmMainMenu.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmpayroll_splash.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmSalarySlip.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmSearchByOverTime.resources
+D:\Projects\Project sources\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmSystemInfo.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\bin\Debug\Payroll Manager.exe.config
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.exe
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.xml
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.pdb
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.vbprojResolveAssemblyReference.cache
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAboutBox1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAdvanceEntryRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAdvance.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAttendance.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmChangePassword.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeeReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmDeductionEntryRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeeAttendanceRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeePayment.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeePaymentRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeesRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployee_registration.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmPasswordRecovery.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmlogin.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmMainMenu.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.Resources.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmpayroll_splash.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmSalarySlip.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmSearchByOverTime.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmSystemInfo.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll Manager.vbproj.GenerateResource.Cache
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\bin\Debug\Payroll Manager.exe
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\bin\Debug\Payroll Manager.pdb
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\bin\Debug\Payroll Manager.xml
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAdvanceEntryReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmOverTimeReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeePaymentReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAttendanceReport.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAboutBox1.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAdvanceEntryRecord.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAdvance.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAdvanceEntryReport.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAttendance.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAttendanceReport.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmChangePassword.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeePaymentReport.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeeReport.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmOverTimeReport.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmDeductionEntryRecord.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeeAttendanceRecord.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeePayment.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeePaymentRecord.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeesRecord.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployee_registration.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmPasswordRecovery.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmlogin.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmMainMenu.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmpayroll_splash.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmSalarySlip.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmSearchByOverTime.resources
+C:\Users\Raj\Desktop\Payroll Manager\Payroll Manager\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmSystemInfo.resources
+C:\Users\Raj\Desktop\Payroll Manager\bin\Debug\Payroll Manager.exe.config
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll Manager.exe
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll Manager.xml
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll Manager.pdb
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll Manager.vbprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAboutBox1.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAdvanceEntryRecord.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAdvance.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAdvanceEntryReport.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAttendance.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmAttendanceReport.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmChangePassword.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeePaymentReport.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeeReport.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmOverTimeReport.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmDeductionEntryRecord.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeeAttendanceRecord.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeePayment.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeePaymentRecord.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeesRecord.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployee_registration.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmPasswordRecovery.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmlogin.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmMainMenu.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.Resources.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmpayroll_splash.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmSalarySlip.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmSearchByOverTime.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmSystemInfo.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll Manager.vbproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\Payroll Manager\bin\Debug\Payroll Manager.exe
+C:\Users\Raj\Desktop\Payroll Manager\bin\Debug\Payroll Manager.pdb
+C:\Users\Raj\Desktop\Payroll Manager\bin\Debug\Payroll Manager.xml
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeePaymentRecord1.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmSalarySlipsReport.resources
+C:\Users\Raj\Desktop\Payroll Manager\obj\x86\Debug\Payroll_Manager.frmEmployeesRecord1.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\bin\Debug\Payroll Manager.exe.config
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll Manager.exe
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll Manager.xml
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll Manager.pdb
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\bin\Debug\Payroll Manager.exe
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\bin\Debug\Payroll Manager.pdb
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\bin\Debug\Payroll Manager.xml
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll Manager.vbprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmAboutBox1.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmAdvanceEntryRecord.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmAdvance.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmAdvanceEntryReport.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmAttendance.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmAttendanceReport.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmChangePassword.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmEmployeePaymentRecord.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmEmployeePaymentReport.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmEmployeeReport.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmEmployeesRecord.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmOverTimeReport.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmSalarySlipsReport.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmDeductionEntryRecord.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmEmployeeAttendanceRecord.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmEmployeePayment.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmEmployeePaymentRecord1.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmEmployeesRecord1.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmEmployee_registration.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmPasswordRecovery.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmlogin.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmMainMenu.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.Resources.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmpayroll_splash.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmSalarySlip.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmSearchByOverTime.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll_Manager.frmSystemInfo.resources
+C:\Users\Raj\Desktop\Payroll Manager(MS Access)\obj\x86\Debug\Payroll Manager.vbproj.GenerateResource.Cache

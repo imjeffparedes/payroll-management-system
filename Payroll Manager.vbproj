@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{06F1E7D7-17D4-46CF-8C4C-141DA8FF820C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Payroll_Manager.My.MyApplication</StartupObject>
+    <RootNamespace>Payroll_Manager</RootNamespace>
+    <AssemblyName>Payroll Manager</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Payroll Manager.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Payroll Manager.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>payroll_services.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAboutBox1.Designer.vb">
+      <DependentUpon>frmAboutBox1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAboutBox1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdvanceEntryRecord.Designer.vb">
+      <DependentUpon>frmAdvanceEntryRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdvanceEntryRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdvance.Designer.vb">
+      <DependentUpon>frmAdvance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdvance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="frmAdvanceEntryReport.Designer.vb">
+      <DependentUpon>frmAdvanceEntryReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdvanceEntryReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAttendance.Designer.vb">
+      <DependentUpon>frmAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAttendanceReport.Designer.vb">
+      <DependentUpon>frmAttendanceReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAttendanceReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangePassword.Designer.vb">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeePaymentRecord.Designer.vb">
+      <DependentUpon>frmEmployeePaymentRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeePaymentRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeePaymentReport.Designer.vb">
+      <DependentUpon>frmEmployeePaymentReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeePaymentReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeReport.Designer.vb">
+      <DependentUpon>frmEmployeeReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeesRecord.Designer.vb">
+      <DependentUpon>frmEmployeesRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeesRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOverTimeReport.Designer.vb">
+      <DependentUpon>frmOverTimeReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOverTimeReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalarySlipsReport.Designer.vb">
+      <DependentUpon>frmSalarySlipsReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalarySlipsReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PayrollManagerDBDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PayrollManagerDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="rptAdvancePayment.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptAdvancePayment.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptAttendance.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptAttendance.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptEmployeePayment.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptEmployeePayment.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptSalarySlip.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptSalarySlip.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmDeductionEntryRecord.Designer.vb">
+      <DependentUpon>frmDeductionEntryRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeductionEntryRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeAttendanceRecord.Designer.vb">
+      <DependentUpon>frmEmployeeAttendanceRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeAttendanceRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeePayment.Designer.vb">
+      <DependentUpon>frmEmployeePayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeePayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeePaymentRecord1.Designer.vb">
+      <DependentUpon>frmEmployeePaymentRecord1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeePaymentRecord1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeesRecord1.Designer.vb">
+      <DependentUpon>frmEmployeesRecord1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeesRecord1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployee_registration.Designer.vb">
+      <DependentUpon>frmEmployee_registration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployee_registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPasswordRecovery.Designer.vb">
+      <DependentUpon>frmPasswordRecovery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPasswordRecovery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainMenu.Designer.vb">
+      <DependentUpon>frmMainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="frmpayroll_splash.Designer.vb">
+      <DependentUpon>frmpayroll_splash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmpayroll_splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalarySlip.Designer.vb">
+      <DependentUpon>frmSalarySlip.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalarySlip.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSearchByOverTime.Designer.vb">
+      <DependentUpon>frmSearchByOverTime.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSearchByOverTime.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSystemInfo.Designer.vb">
+      <DependentUpon>frmSystemInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSystemInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptEmployee.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptEmployee.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptOverTime.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptOverTime.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptSalarySlips.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptSalarySlips.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAboutBox1.resx">
+      <DependentUpon>frmAboutBox1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdvanceEntryRecord.resx">
+      <DependentUpon>frmAdvanceEntryRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdvance.resx">
+      <DependentUpon>frmAdvance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdvanceEntryReport.resx">
+      <DependentUpon>frmAdvanceEntryReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAttendance.resx">
+      <DependentUpon>frmAttendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAttendanceReport.resx">
+      <DependentUpon>frmAttendanceReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeePaymentRecord.resx">
+      <DependentUpon>frmEmployeePaymentRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeePaymentReport.resx">
+      <DependentUpon>frmEmployeePaymentReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeReport.resx">
+      <DependentUpon>frmEmployeeReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeesRecord.resx">
+      <DependentUpon>frmEmployeesRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOverTimeReport.resx">
+      <DependentUpon>frmOverTimeReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalarySlipsReport.resx">
+      <DependentUpon>frmSalarySlipsReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptAdvancePayment.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAdvancePayment.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptAttendance.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAttendance.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptEmployeePayment.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptEmployeePayment.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptSalarySlip.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptSalarySlip.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeductionEntryRecord.resx">
+      <DependentUpon>frmDeductionEntryRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeAttendanceRecord.resx">
+      <DependentUpon>frmEmployeeAttendanceRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeePayment.resx">
+      <DependentUpon>frmEmployeePayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeePaymentRecord1.resx">
+      <DependentUpon>frmEmployeePaymentRecord1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeesRecord1.resx">
+      <DependentUpon>frmEmployeesRecord1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployee_registration.resx">
+      <DependentUpon>frmEmployee_registration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPasswordRecovery.resx">
+      <DependentUpon>frmPasswordRecovery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainMenu.resx">
+      <DependentUpon>frmMainMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmpayroll_splash.resx">
+      <DependentUpon>frmpayroll_splash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalarySlip.resx">
+      <DependentUpon>frmSalarySlip.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSearchByOverTime.resx">
+      <DependentUpon>frmSearchByOverTime.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSystemInfo.resx">
+      <DependentUpon>frmSystemInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptEmployee.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptEmployee.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptOverTime.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptOverTime.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptSalarySlips.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptSalarySlips.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="payroll_services.ico" />
+    <None Include="PayrollManagerDBDataSet.xsc">
+      <DependentUpon>PayrollManagerDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PayrollManagerDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PayrollManagerDBDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PayrollManagerDBDataSet.xss">
+      <DependentUpon>PayrollManagerDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\time_1920x12001.jpg" />
+    <None Include="Resources\images51.jpg" />
+    <None Include="Resources\time_1920x1200.jpg" />
+    <None Include="Resources\images5.jpg" />
+    <None Include="Resources\images~6.png" />
+    <None Include="Resources\images~5.png" />
+    <None Include="Resources\images~3.png" />
+    <None Include="Resources\employeesIcon200.png" />
+    <None Include="Resources\images~2.png" />
+    <None Include="Resources\c5eea9b377ba.png" />
+    <None Include="Resources\images1.png" />
+    <None Include="Resources\icon-eps02.png" />
+    <None Include="Resources\images~1.png" />
+    <None Include="Resources\Icon three1.png" />
+    <None Include="Resources\Icon three.png" />
+    <None Include="Resources\corp_employee_icon.png" />
+    <None Include="Resources\images.png" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\employeesIcon200.jpg" />
+    <None Include="Resources\logout.png" />
+    <None Include="Resources\salary_icon.png" />
+    <None Include="Resources\Salaries-sml.png" />
+    <None Include="Resources\attendance_list_icon.png" />
+    <None Include="Resources\payroll1.jpg" />
+    <None Include="Resources\small-business-payroll-service.jpeg" />
+    <None Include="Resources\payroll.jpg" />
+    <None Include="Resources\payroll_services.jpg" />
+    <None Include="Resources\User-icon.png" />
+    <None Include="Resources\calen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
